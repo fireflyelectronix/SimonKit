@@ -4,6 +4,10 @@
 
 <b>Simon Kit from Firefly Electronix.</b>
 
+<p align="left">
+  <img src="SimonKit_light-up slideshow.jpg" width="350"/>
+</p>
+
 <b>Setup the Arduino IDE</b>
 <p>If you want to reprogram the Simon Kit, you will need to add it to the boards file on your computer. This is located under C:\Program Files (x86)\Arduino\hardware\arduino\avr</p>
 
@@ -11,7 +15,7 @@
 
 <p>The Simon Kit will now show up in the Arduino IDE as an option to choose under Tools/Board:. Keep in mind that this design uses the 8MHz internal clock as opposed to the 16MHz clock on the Arduino UNO.</p> 
 
-<b>Pins available<b>
+<b>Pins available</b>
 
 <p>The LEDs are connected to pins 3, 5, 10, and 13 (colors may be different on yours depending on how you assembled it).
 
